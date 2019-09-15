@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 933eeec2000053948b2497d9c4f2a266
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 5_+Cha-9003a-cape.Cha-9003a-cape_0.1_16_16
+    100002: 5_+Cha-9003a-cape0.Cha-9003a-cape0_0.1_16_16
+    100004: 5_+face-9003a-00.face-9003a-00_0.1_16_16
+    100006: 5_-face-9003a-01.face-9003a-01_0.1_16_16
+    100008: 5_-face-9003a-02.face-9003a-02_0.1_16_16
+    100010: 5_Cha-9003a-body_0.1_16_16
+    100012: 5_Cha-9003a-hair_0.1_16_16
+    100014: Armature
+    100016: Attach Acc
+    100018: Attach Acc_end
+    100020: B cape 00
+    100022: B cape 01
+    100024: B cape 01_end
+    100026: B hair 00
+    100028: B hair 01
+    100030: B hair 02
+    100032: B hair 03
+    100034: B hair 03_end
+    100036: BL cape 00
+    100038: BL cape 01
+    100040: BL cape 01_end
+    100042: BR cape 00
+    100044: BR cape 01
+    100046: BR cape 01_end
+    100048: CH Head
+    100050: CH Hips
+    100052: CH LeftArm
+    100054: CH LeftFoot
+    100056: CH LeftForeArm
+    100058: CH LeftHand
+    100060: CH LeftHandIndex1
+    100062: CH LeftHandIndex2
+    100064: CH LeftHandIndex3
+    100066: CH LeftHandIndex3_end
+    100068: CH LeftHandMiddle1
+    100070: CH LeftHandMiddle2
+    100072: CH LeftHandMiddle3
+    100074: CH LeftHandMiddle3_end
+    100076: CH LeftHandRing1
+    100078: CH LeftHandRing2
+    100080: CH LeftHandRing3
+    100082: CH LeftHandRing3_end
+    100084: CH LeftHandThumb1
+    100086: CH LeftHandThumb2
+    100088: CH LeftHandThumb3
+    100090: CH LeftHandThumb3_end
+    100092: CH LeftLeg
+    100094: CH LeftShoulder
+    100096: CH LeftToeBase
+    100098: CH LeftToeBase_end
+    100100: CH LeftUpLeg
+    100102: CH Neck
+    100104: CH Reference
+    100106: CH RightArm
+    100108: CH RightFoot
+    100110: CH RightForeArm
+    100112: CH RightHand
+    100114: CH RightHandIndex1
+    100116: CH RightHandIndex2
+    100118: CH RightHandIndex3
+    100120: CH RightHandIndex3_end
+    100122: CH RightHandMiddle1
+    100124: CH RightHandMiddle2
+    100126: CH RightHandMiddle3
+    100128: CH RightHandMiddle3_end
+    100130: CH RightHandRing1
+    100132: CH RightHandRing2
+    100134: CH RightHandRing3
+    100136: CH RightHandRing3_end
+    100138: CH RightHandThumb1
+    100140: CH RightHandThumb2
+    100142: CH RightHandThumb3
+    100144: CH RightHandThumb3_end
+    100146: CH RightLeg
+    100148: CH RightShoulder
+    100150: CH RightToeBase
+    100152: CH RightToeBase_end
+    100154: CH RightUpLeg
+    100156: CH Spine
+    100158: CH Spine1
+    100160: Cha 9003a head
+    100162: Cha 9003a hip
+    100164: eye
+    100166: eye_end
+    100168: Head root
+    100170: L bust 00
+    100172: L bust 01
+    100174: L bust 02
+    100176: L bust 02_end
+    100178: P Cha 9003a
+    100180: R bust 00
+    100182: R bust 01
+    100184: R bust 02
+    100186: R bust 02_end
+    100188: root Hips
+    100190: //RootNode
+    400000: 5_+Cha-9003a-cape.Cha-9003a-cape_0.1_16_16
+    400002: 5_+Cha-9003a-cape0.Cha-9003a-cape0_0.1_16_16
+    400004: 5_+face-9003a-00.face-9003a-00_0.1_16_16
+    400006: 5_-face-9003a-01.face-9003a-01_0.1_16_16
+    400008: 5_-face-9003a-02.face-9003a-02_0.1_16_16
+    400010: 5_Cha-9003a-body_0.1_16_16
+    400012: 5_Cha-9003a-hair_0.1_16_16
+    400014: Armature
+    400016: Attach Acc
+    400018: Attach Acc_end
+    400020: B cape 00
+    400022: B cape 01
+    400024: B cape 01_end
+    400026: B hair 00
+    400028: B hair 01
+    400030: B hair 02
+    400032: B hair 03
+    400034: B hair 03_end
+    400036: BL cape 00
+    400038: BL cape 01
+    400040: BL cape 01_end
+    400042: BR cape 00
+    400044: BR cape 01
+    400046: BR cape 01_end
+    400048: CH Head
+    400050: CH Hips
+    400052: CH LeftArm
+    400054: CH LeftFoot
+    400056: CH LeftForeArm
+    400058: CH LeftHand
+    400060: CH LeftHandIndex1
+    400062: CH LeftHandIndex2
+    400064: CH LeftHandIndex3
+    400066: CH LeftHandIndex3_end
+    400068: CH LeftHandMiddle1
+    400070: CH LeftHandMiddle2
+    400072: CH LeftHandMiddle3
+    400074: CH LeftHandMiddle3_end
+    400076: CH LeftHandRing1
+    400078: CH LeftHandRing2
+    400080: CH LeftHandRing3
+    400082: CH LeftHandRing3_end
+    400084: CH LeftHandThumb1
+    400086: CH LeftHandThumb2
+    400088: CH LeftHandThumb3
+    400090: CH LeftHandThumb3_end
+    400092: CH LeftLeg
+    400094: CH LeftShoulder
+    400096: CH LeftToeBase
+    400098: CH LeftToeBase_end
+    400100: CH LeftUpLeg
+    400102: CH Neck
+    400104: CH Reference
+    400106: CH RightArm
+    400108: CH RightFoot
+    400110: CH RightForeArm
+    400112: CH RightHand
+    400114: CH RightHandIndex1
+    400116: CH RightHandIndex2
+    400118: CH RightHandIndex3
+    400120: CH RightHandIndex3_end
+    400122: CH RightHandMiddle1
+    400124: CH RightHandMiddle2
+    400126: CH RightHandMiddle3
+    400128: CH RightHandMiddle3_end
+    400130: CH RightHandRing1
+    400132: CH RightHandRing2
+    400134: CH RightHandRing3
+    400136: CH RightHandRing3_end
+    400138: CH RightHandThumb1
+    400140: CH RightHandThumb2
+    400142: CH RightHandThumb3
+    400144: CH RightHandThumb3_end
+    400146: CH RightLeg
+    400148: CH RightShoulder
+    400150: CH RightToeBase
+    400152: CH RightToeBase_end
+    400154: CH RightUpLeg
+    400156: CH Spine
+    400158: CH Spine1
+    400160: Cha 9003a head
+    400162: Cha 9003a hip
+    400164: eye
+    400166: eye_end
+    400168: Head root
+    400170: L bust 00
+    400172: L bust 01
+    400174: L bust 02
+    400176: L bust 02_end
+    400178: P Cha 9003a
+    400180: R bust 00
+    400182: R bust 01
+    400184: R bust 02
+    400186: R bust 02_end
+    400188: root Hips
+    400190: //RootNode
+    2100000: 5_Cha-9003a-hair_0.1_16_16
+    2100002: 5_Cha-9003a-body_0.1_16_16
+    2100004: 5_-face-9003a-02.face-9003a-02_0.1_16_16
+    2100006: 5_-face-9003a-01.face-9003a-01_0.1_16_16
+    2100008: 5_+face-9003a-00.face-9003a-00_0.1_16_16
+    2100010: 5_+Cha-9003a-cape0.Cha-9003a-cape0_0.1_16_16
+    2100012: 5_+Cha-9003a-cape.Cha-9003a-cape_0.1_16_16
+    4300000: 5_Cha-9003a-hair_0.1_16_16
+    4300002: 5_Cha-9003a-body_0.1_16_16
+    4300004: 5_-face-9003a-02.face-9003a-02_0.1_16_16
+    4300006: 5_-face-9003a-01.face-9003a-01_0.1_16_16
+    4300008: 5_+face-9003a-00.face-9003a-00_0.1_16_16
+    4300010: 5_+Cha-9003a-cape0.Cha-9003a-cape0_0.1_16_16
+    4300012: 5_+Cha-9003a-cape.Cha-9003a-cape_0.1_16_16
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: 5_+Cha-9003a-cape.Cha-9003a-cape_0.1_16_16
+    13700002: 5_+Cha-9003a-cape0.Cha-9003a-cape0_0.1_16_16
+    13700004: 5_+face-9003a-00.face-9003a-00_0.1_16_16
+    13700006: 5_-face-9003a-01.face-9003a-01_0.1_16_16
+    13700008: 5_-face-9003a-02.face-9003a-02_0.1_16_16
+    13700010: 5_Cha-9003a-body_0.1_16_16
+    13700012: 5_Cha-9003a-hair_0.1_16_16
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_+Cha-9003a-cape.Cha-9003a-cape_0.1_16_16
+    second: {fileID: 2100000, guid: 20b52f9de682ad5409c7caddb6df1991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_+Cha-9003a-cape0.Cha-9003a-cape0_0.1_16_16
+    second: {fileID: 2100000, guid: 20b52f9de682ad5409c7caddb6df1991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_+face-9003a-00.face-9003a-00_0.1_16_16
+    second: {fileID: 2100000, guid: 20b52f9de682ad5409c7caddb6df1991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-face-9003a-01.face-9003a-01_0.1_16_16
+    second: {fileID: 2100000, guid: 20b52f9de682ad5409c7caddb6df1991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-face-9003a-02.face-9003a-02_0.1_16_16
+    second: {fileID: 2100000, guid: 20b52f9de682ad5409c7caddb6df1991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_Cha-9003a-body_0.1_16_16
+    second: {fileID: 2100000, guid: 20b52f9de682ad5409c7caddb6df1991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_Cha-9003a-hair_0.1_16_16
+    second: {fileID: 2100000, guid: 20b52f9de682ad5409c7caddb6df1991, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
